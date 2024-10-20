@@ -9,10 +9,10 @@ Sou Analista de Dados com experiência em transformar dados em insights acionáv
 - **Outros**: SAP R/3, EBS Oracle, TOTVS Prohteus
 
 ## 📊 Projetos:
-### 1. [Análise de Dados - E-commerce](link do repositório)
+### 1. [Análise de Dados - E-commerce] 
 Criação de um Modelo de Regressão Linear e análise completa do cálcudo da previsibilidade e tomada de ações para melhorias dos resultados de um e-commerce utilizando Excel e Power BI.
 
-### 2. [Dashboard Interativo com Power BI](link do repositório)
+### 2. [Dashboard Interativo com Power BI] 
 Criação de um dashboard interativo para visualização das vendas de um e-commerce em diferentes marketplace, com análises de vendas, clientesm, produtos.
 
 ## 📈 Sempre em busca de novos desafios em ciência de dados e analytics! Conecte-se comigo:
